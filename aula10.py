@@ -1,13 +1,15 @@
-entrada = input('Digite um número: ')
 
-if entrada.isdigit():
-    entrada_int = int(entrada)
-    par_impar = entrada_int % 2 == 0
-    par_impar_texto = 'impar'
 
-    if par_impar:
-        par_impar_texto = 'par'
+#entrada de dados em python é feito com input
+"""nome = input ("Digite seu nome: ")
+idade = input ("Digite a sua idade: ")
+ano_nascimento = 2021-int(idade)
+print(f'O ano de nascimento do usuario {nome} é {ano_nascimento} '
+      f'sua idade atual de {idade} anos')
+"""
+numero_1 = int(input('Digite um número: '))
+numero_2 = int(input('Digite outro numero: '))
+print(numero_1 * numero_2)
 
-    print(f'O numero {entrada_int} é {par_impar_texto}')
-else:
-    print('Voce não digitou um numero inteiro')
+
+
