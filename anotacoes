@@ -1,1 +1,8 @@
 args empacota o que enviar para funcao dentro de uma tupla
+
+o que é um interavel item sequencial
+
+interator a unica responsabilidade é entregar um valor por vez,
+sabendo qual é proximo valor (iter,next "metodos")
+
+generator sao funcoes que sabem pausar em determinada ocasiao
