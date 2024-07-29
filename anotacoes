@@ -6,3 +6,5 @@ interator a unica responsabilidade é entregar um valor por vez,
 sabendo qual é proximo valor (iter,next "metodos")
 
 generator sao funcoes que sabem pausar em determinada ocasiao
+todo generator é um iterator, mas nem todo iterator é um generator
+
