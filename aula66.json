@@ -1,0 +1,22 @@
+{
+  "nome": "Joyce Silva da ",
+  "Sobrenome": "Hora",
+  "enderecos": [
+    {
+      "rua": "R1",
+      "numero": 20
+    },
+    {
+      "rua": "R2",
+      "numero": 25
+    }
+  ],
+  "altura": 1.6,
+  "numero_preferidos": [
+    5,
+    8,
+    13
+  ],
+  "dev": true,
+  "nada": null
+}
