@@ -8,3 +8,16 @@ sabendo qual é proximo valor (iter,next "metodos")
 generator sao funcoes que sabem pausar em determinada ocasiao
 todo generator é um iterator, mas nem todo iterator é um generator
 
+funcoes recursivas podem ser chamada de volta, uteis para dividir problemas grandes em partes menores
+
+criar ambiente virtual ---->python -m venv nomedoambiente
+ **args é usado em uma função quando você não sabe quantos argumentos (valores) ela vai receber.
+
+ **kwargs significa  (argumentos nomeados).
+Ele permite que você passe vários parâmetros nomeados (chave=valor) para uma função — sem precisar saber de antemão quais serão.
+
+classe sao moldes para criar novos objetos
+
+def quando é dentro de uma classe é chamado de metodo mais segue mesmo de funçao
+
+metodo é uma função que esta dentro da classe, self é mesmo que objeto fora da classe
