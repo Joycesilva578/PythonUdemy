@@ -1,7 +1,7 @@
 #atributos de classe exercicio
 import json
 
-CAMINHO_ARQUIVO = 'Aula73.json'
+CAMINHO_ARQUIVO = 'Aula7633.json'
 
 class Pessoa:
     def __init__(self, nome, idade):
